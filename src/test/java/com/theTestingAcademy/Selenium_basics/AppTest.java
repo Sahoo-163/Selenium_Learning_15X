@@ -1,4 +1,4 @@
-package com.theTestingAcademy;
+package com.theTestingAcademy.Selenium_basics;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
